@@ -76,6 +76,14 @@ You will also need the following Python libraries:
 
 * ``requirements.txt``: List of dependencies required to run the project.
 
+**Results**
+
+The notebook provides:
+
+* Performance metrics such as accuracy, precision, and recall.
+
+* Visualizations including confusion matrix and feature importance
+
 
 
 
